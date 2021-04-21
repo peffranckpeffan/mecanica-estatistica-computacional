@@ -1,0 +1,1 @@
+Atividades realizadas para a matéria de Mecânica Estatística Computacional.
